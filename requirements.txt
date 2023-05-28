@@ -1,0 +1,3 @@
+jam.py
+python-docx
+XlsxWriter
