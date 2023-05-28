@@ -1,0 +1,17 @@
+builder administrator
+username: admin
+pwd: 1234
+
+current mysql password: esther67
+
+to edit dbases:
+mysql -u root -p
+  -> pwd: esther67
+
+show databases;
+use cleanroom;
+select * from steps;
+delete from steps;   <- DELETES EVERY ROW IN STEPS!!! CAREFUL...
+quit;
+
+

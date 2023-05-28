@@ -1,0 +1,45 @@
+.form-horizontal .control-group {
+    margin-bottom: 1px;
+}
+
+.form-horizontal .control-group:first-child {
+    margin-top: 1px;
+}
+
+.form-horizontal .control-label {
+    font-size: 90%;
+}
+
+.form-horizontal .input-longtext {
+    font-size: 90%;
+}
+
+.btn {
+    padding: 4px 8px;
+    border-color: #606060;
+    }
+
+.btn-red{background-color:#AA0000;color: #FFFFFF;}
+.btn-red:hover{color: #AAAAAA;}
+
+.btn-small {
+    padding: 2px 10px;
+}
+
+.nav-tabs > li > a
+{
+    padding-top: 4px; 
+    padding-bottom: 4px;
+}
+
+.form-body {
+    padding: 5px 8px;
+}
+
+.modal-title {
+    margin: 0px 0px;
+}
+
+.form-footer {
+    padding: 6px 14px 6px;
+}
