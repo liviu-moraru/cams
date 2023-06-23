@@ -61,3 +61,9 @@ docker stop cams
 ```
 docker start cams
 ```
+
+# Modificarea structurii tabelelor si a interfetei
+
+- Documentatia se gaseste [aici](jam-py.pdf).
+- Se intra in pagina http://localhost:8080/builder.html
+- Datele de logare sunt: user:admin, password: 1234
